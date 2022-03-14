@@ -1,6 +1,6 @@
-The readme text to HotelSystp
-1, The URL to set room count
-URL Mapping: http://localhost:8080/room/deployToRoomValue/{roomCount}
+The readme text to HotelSystp </br>
+1, The URL to set room count </br>
+URL Mapping: http://localhost:8080/room/deployToRoomValue/{roomCount} </br>
 URL Example: http://localhost:8080/room/deployToRoomValue/10
 
 2, Display all rooms
